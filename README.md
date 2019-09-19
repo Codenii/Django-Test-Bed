@@ -1,4 +1,4 @@
-# Product Name
+# Portfolio Tutorial
 > This is just a simple Django tutorial I ran through to re-familiarize myself with Django.
 
 
