@@ -27,7 +27,7 @@ python manage.py runserver
 
 ## Meta
 
-Your Name – [@Codeni80](https://twitter.com/codeni80) – codeni80@gmail.com
+Cody Wilson – [@Codeni80](https://twitter.com/codeni80) – codeni80@gmail.com
 
 [https://github.com/codeni80/Django-Test-Bed](https://github.com/codeni80/Django-Test-Bed)
 
